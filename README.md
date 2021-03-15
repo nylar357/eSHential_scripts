@@ -22,5 +22,5 @@ this is my custom weather suite of scripts weather small gives you your weather 
 
 runner.sh - a script with a little trickery to basically display a rofi dmenu  giving you a list of file contents (change to your liking) and it executes any of the selected file contents for you I typically use it to execute scripts requires ripgrep
 
-gmessages.sh - Small script that opens firefox on Googles new Messages for the Web (Google Mobile Messengeral app synced in browser.). If your unfamiliar https://messages.google.com/web/authentication, cannot recommend this functionality highly enough.
+gmessages.sh - Small script that opens firefox on Googles new Messages for the Web (Google Mobile Messenger app synced in browser.). If your unfamiliar https://messages.google.com/web/authentication, cannot recommend this functionality highly enough.
 -
