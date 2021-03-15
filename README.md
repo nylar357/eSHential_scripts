@@ -19,6 +19,8 @@ batcheck.sh - a script to display a notification containing an icon reflecting t
 
 speedtest.sh - speedtest-CLI script to run upload download speed test display the results as a notification and printed and output to a file require speedtest-cli
 
+[!preview](weathers.jpg)
+
 weatherS.sh(small) weatherL.sh(large) weatherLOOP.sh(auto refresh every 180 secs 2 1/2 minutes - 
 this is my custom weather suite of scripts weather small gives you your weather icon temperature just a few things whether large is a 5-day forecast takes up your whole terminal screen and whether loop is weather small looped every two and a half minutes so you get it updated and you don't have to refresh it requires curl
 
