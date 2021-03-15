@@ -1,9 +1,9 @@
-eSHential_scripts
+eSHential_scripts (All successfully tested and touched up on Openbox WM)
 CONTENTS
 
 autoplay.sh - autoplays video from a copied URL in MPVPlayer.  Requires XClip & MPV.  Example: Jump on putlockers.me or get on your Tubi.tv account select your movie copy URL.. ./run the script MPV spawns loads the url and plays.  GREAT for sizing, audio control, makes a more flexible watching experience.
 
-bckliteF.sh | bckliteH.sh | liteoff.sh  - scripts to operate the Dell keyboard backlight
+bckliteF.sh(full 100%) | bckliteH.sh(half 50%) | liteoff.sh(off)  - scripts to operate the Dell keyboard backlight.  Often with certain WM you'll lose your brightness key functionality.  
 
  findr.sh    - script that finds runs focuses or process IDs any entry requires x-prop and wmctrl
 
