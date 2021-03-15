@@ -1,3 +1,5 @@
+![preview](skullwall.jpg)
+
 eSHential_scripts (All successfully tested and touched up on Openbox WM)
 CONTENTS
 
