@@ -1,7 +1,7 @@
 eSHential_scripts
 CONTENTS
 
-autoplay.sh - autoplays video from a copied URL in MPVPlayer.  Requires XClip & MPV
+autoplay.sh - autoplays video from a copied URL in MPVPlayer.  Requires XClip & MPV.  Example: Jump on putlockers.me or get on your Tubi.tv account select your movie copy URL.. ./run the script MPV spawns loads the url and plays.  GREAT for sizing, audio control, makes a more flexible watching experience.
 
 bckliteF.sh | bckliteH.sh | liteoff.sh  - scripts to operate the Dell keyboard backlight
 
